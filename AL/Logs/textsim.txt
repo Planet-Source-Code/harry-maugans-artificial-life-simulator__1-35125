@@ -1,0 +1,980 @@
+Logged At: 3:52:41 PM on 5/26/2002
+Simulation running time: 0:00:59
+Number of days elapsed: 14
+Total number of living cells: 1694
+Total number of living plant cells: 987
+Total number of living animal cells: 707
+Total number of births: 0
+Total number of plant cell births: 0
+Total number of animal cell births: 0
+Total number of deaths: 0
+Total number of plant cell deaths: 0
+Total number of animal cell deaths: 0
+----------------------------------------------------
+
+Logged At: 3:53:47 PM on 5/26/2002
+Simulation running time: 0:01:59
+Number of days elapsed: 17
+Total number of living cells: 6062
+Total number of living plant cells: 3478
+Total number of living animal cells: 2584
+Total number of births: 0
+Total number of plant cell births: 0
+Total number of animal cell births: 0
+Total number of deaths: 0
+Total number of plant cell deaths: 0
+Total number of animal cell deaths: 0
+----------------------------------------------------
+
+Logged At: 3:54:48 PM on 5/26/2002
+Simulation running time: 0:02:59
+Number of days elapsed: 18
+Total number of living cells: 10270
+Total number of living plant cells: 6089
+Total number of living animal cells: 4181
+Total number of births: 0
+Total number of plant cell births: 0
+Total number of animal cell births: 0
+Total number of deaths: 0
+Total number of plant cell deaths: 0
+Total number of animal cell deaths: 0
+----------------------------------------------------
+
+Logged At: 4:04:32 PM on 5/26/2002
+Simulation running time: 0:00:59
+Number of days elapsed: 17
+Total number of living cells: 6179
+Total number of living plant cells: 3090
+Total number of living animal cells: 3089
+Total number of births: 0
+Total number of plant cell births: 0
+Total number of animal cell births: 0
+Total number of deaths: 0
+Total number of plant cell deaths: 0
+Total number of animal cell deaths: 0
+----------------------------------------------------
+
+Logged At: 4:46:29 PM on 5/26/2002
+Simulation running time: 0:00:59
+Number of days elapsed: 18
+Total number of living cells: 3230
+Total number of living plant cells: 1615
+Total number of living animal cells: 1615
+Total number of births: 3837
+Total number of plant cell births: 1919
+Total number of animal cell births: 1918
+Total number of deaths: 607
+Total number of plant cell deaths: 304
+Total number of animal cell deaths: 303
+----------------------------------------------------
+
+Logged At: 4:47:51 PM on 5/26/2002
+Simulation running time: 0:01:59
+Number of days elapsed: 21
+Total number of living cells: 5066
+Total number of living plant cells: 2533
+Total number of living animal cells: 2533
+Total number of births: 7282
+Total number of plant cell births: 3641
+Total number of animal cell births: 3641
+Total number of deaths: 2216
+Total number of plant cell deaths: 1108
+Total number of animal cell deaths: 1108
+----------------------------------------------------
+
+Logged At: 4:48:51 PM on 5/26/2002
+Simulation running time: 0:02:59
+Number of days elapsed: 25
+Total number of living cells: 4414
+Total number of living plant cells: 2207
+Total number of living animal cells: 2207
+Total number of births: 10086
+Total number of plant cell births: 5043
+Total number of animal cell births: 5043
+Total number of deaths: 5672
+Total number of plant cell deaths: 2836
+Total number of animal cell deaths: 2836
+----------------------------------------------------
+
+Logged At: 4:54:14 PM on 5/26/2002
+Simulation running time: 0:00:59
+Number of days elapsed: 17
+Total number of living cells: 3717
+Total number of living plant cells: 1859
+Total number of living animal cells: 1858
+Total number of births: 4053
+Total number of plant cell births: 2027
+Total number of animal cell births: 2026
+Total number of deaths: 336
+Total number of plant cell deaths: 168
+Total number of animal cell deaths: 168
+----------------------------------------------------
+
+Logged At: 4:55:39 PM on 5/26/2002
+Simulation running time: 0:01:59
+Number of days elapsed: 19
+Total number of living cells: 6680
+Total number of living plant cells: 3340
+Total number of living animal cells: 3340
+Total number of births: 7458
+Total number of plant cell births: 3729
+Total number of animal cell births: 3729
+Total number of deaths: 778
+Total number of plant cell deaths: 389
+Total number of animal cell deaths: 389
+----------------------------------------------------
+
+Logged At: 4:57:00 PM on 5/26/2002
+Simulation running time: 0:02:59
+Number of days elapsed: 20
+Total number of living cells: 9030
+Total number of living plant cells: 4515
+Total number of living animal cells: 4515
+Total number of births: 10220
+Total number of plant cell births: 5110
+Total number of animal cell births: 5110
+Total number of deaths: 1190
+Total number of plant cell deaths: 595
+Total number of animal cell deaths: 595
+----------------------------------------------------
+
+Logged At: 4:58:00 PM on 5/26/2002
+Simulation running time: 0:03:40
+Number of days elapsed: 20
+Total number of living cells: 9864
+Total number of living plant cells: 4932
+Total number of living animal cells: 4932
+Total number of births: 11536
+Total number of plant cell births: 5768
+Total number of animal cell births: 5768
+Total number of deaths: 1672
+Total number of plant cell deaths: 836
+Total number of animal cell deaths: 836
+----------------------------------------------------
+
+Logged At: 4:59:01 PM on 5/26/2002
+Simulation running time: 0:04:59
+Number of days elapsed: 21
+Total number of living cells: 7794
+Total number of living plant cells: 3898
+Total number of living animal cells: 3896
+Total number of births: 13361
+Total number of plant cell births: 6681
+Total number of animal cell births: 6680
+Total number of deaths: 5567
+Total number of plant cell deaths: 2783
+Total number of animal cell deaths: 2784
+----------------------------------------------------
+
+Logged At: 5:00:02 PM on 5/26/2002
+Simulation running time: 0:05:59
+Number of days elapsed: 21
+Total number of living cells: 7775
+Total number of living plant cells: 3888
+Total number of living animal cells: 3887
+Total number of births: 14623
+Total number of plant cell births: 7312
+Total number of animal cell births: 7311
+Total number of deaths: 6848
+Total number of plant cell deaths: 3424
+Total number of animal cell deaths: 3424
+----------------------------------------------------
+
+Logged At: 5:01:02 PM on 5/26/2002
+Simulation running time: 0:06:40
+Number of days elapsed: 22
+Total number of living cells: 6939
+Total number of living plant cells: 3470
+Total number of living animal cells: 3469
+Total number of births: 14979
+Total number of plant cell births: 7490
+Total number of animal cell births: 7489
+Total number of deaths: 8040
+Total number of plant cell deaths: 4020
+Total number of animal cell deaths: 4020
+----------------------------------------------------
+
+Logged At: 5:06:39 PM on 5/26/2002
+Simulation running time: 0:00:59
+Number of days elapsed: 17
+Total number of living cells: 3683
+Total number of living plant cells: 1842
+Total number of living animal cells: 1841
+Total number of births: 4019
+Total number of plant cell births: 2010
+Total number of animal cell births: 2009
+Total number of deaths: 336
+Total number of plant cell deaths: 168
+Total number of animal cell deaths: 168
+----------------------------------------------------
+
+Logged At: 5:07:39 PM on 5/26/2002
+Simulation running time: 0:01:59
+Number of days elapsed: 19
+Total number of living cells: 6589
+Total number of living plant cells: 3295
+Total number of living animal cells: 3294
+Total number of births: 7367
+Total number of plant cell births: 3684
+Total number of animal cell births: 3683
+Total number of deaths: 778
+Total number of plant cell deaths: 389
+Total number of animal cell deaths: 389
+----------------------------------------------------
+
+Logged At: 5:08:39 PM on 5/26/2002
+Simulation running time: 0:02:59
+Number of days elapsed: 19
+Total number of living cells: 9350
+Total number of living plant cells: 4675
+Total number of living animal cells: 4675
+Total number of births: 10128
+Total number of plant cell births: 5064
+Total number of animal cell births: 5064
+Total number of deaths: 778
+Total number of plant cell deaths: 389
+Total number of animal cell deaths: 389
+----------------------------------------------------
+
+Logged At: 5:09:40 PM on 5/26/2002
+Simulation running time: 0:03:59
+Number of days elapsed: 20
+Total number of living cells: 6815
+Total number of living plant cells: 3408
+Total number of living animal cells: 3407
+Total number of births: 11595
+Total number of plant cell births: 5798
+Total number of animal cell births: 5797
+Total number of deaths: 4780
+Total number of plant cell deaths: 2390
+Total number of animal cell deaths: 2390
+----------------------------------------------------
+
+Logged At: 6:47:04 PM on 5/26/2002
+Simulation running time: 0:00:59
+Number of days elapsed: 17
+Total number of living cells: 3692
+Total number of living plant cells: 1846
+Total number of living animal cells: 1846
+Total number of births: 4028
+Total number of plant cell births: 2014
+Total number of animal cell births: 2014
+Total number of deaths: 336
+Total number of plant cell deaths: 168
+Total number of animal cell deaths: 168
+----------------------------------------------------
+
+Logged At: 6:48:04 PM on 5/26/2002
+Simulation running time: 0:01:59
+Number of days elapsed: 19
+Total number of living cells: 6599
+Total number of living plant cells: 3300
+Total number of living animal cells: 3299
+Total number of births: 7377
+Total number of plant cell births: 3689
+Total number of animal cell births: 3688
+Total number of deaths: 778
+Total number of plant cell deaths: 389
+Total number of animal cell deaths: 389
+----------------------------------------------------
+
+Logged At: 6:49:04 PM on 5/26/2002
+Simulation running time: 0:02:59
+Number of days elapsed: 19
+Total number of living cells: 9446
+Total number of living plant cells: 4723
+Total number of living animal cells: 4723
+Total number of births: 10224
+Total number of plant cell births: 5112
+Total number of animal cell births: 5112
+Total number of deaths: 778
+Total number of plant cell deaths: 389
+Total number of animal cell deaths: 389
+----------------------------------------------------
+
+Logged At: 6:50:05 PM on 5/26/2002
+Simulation running time: 0:03:59
+Number of days elapsed: 20
+Total number of living cells: 11032
+Total number of living plant cells: 5516
+Total number of living animal cells: 5516
+Total number of births: 12222
+Total number of plant cell births: 6111
+Total number of animal cell births: 6111
+Total number of deaths: 1190
+Total number of plant cell deaths: 595
+Total number of animal cell deaths: 595
+----------------------------------------------------
+
+Logged At: 6:51:06 PM on 5/26/2002
+Simulation running time: 0:04:59
+Number of days elapsed: 20
+Total number of living cells: 12877
+Total number of living plant cells: 6439
+Total number of living animal cells: 6438
+Total number of births: 14067
+Total number of plant cell births: 7034
+Total number of animal cell births: 7033
+Total number of deaths: 1190
+Total number of plant cell deaths: 595
+Total number of animal cell deaths: 595
+----------------------------------------------------
+
+Logged At: 6:52:07 PM on 5/26/2002
+Simulation running time: 0:05:59
+Number of days elapsed: 20
+Total number of living cells: 14709
+Total number of living plant cells: 7355
+Total number of living animal cells: 7354
+Total number of births: 15899
+Total number of plant cell births: 7950
+Total number of animal cell births: 7949
+Total number of deaths: 1190
+Total number of plant cell deaths: 595
+Total number of animal cell deaths: 595
+----------------------------------------------------
+
+Logged At: 6:53:07 PM on 5/26/2002
+Simulation running time: 0:06:59
+Number of days elapsed: 21
+Total number of living cells: 15910
+Total number of living plant cells: 7955
+Total number of living animal cells: 7955
+Total number of births: 17740
+Total number of plant cell births: 8870
+Total number of animal cell births: 8870
+Total number of deaths: 1830
+Total number of plant cell deaths: 915
+Total number of animal cell deaths: 915
+----------------------------------------------------
+
+Logged At: 6:54:08 PM on 5/26/2002
+Simulation running time: 0:07:59
+Number of days elapsed: 21
+Total number of living cells: 17527
+Total number of living plant cells: 8764
+Total number of living animal cells: 8763
+Total number of births: 19357
+Total number of plant cell births: 9679
+Total number of animal cell births: 9678
+Total number of deaths: 1830
+Total number of plant cell deaths: 915
+Total number of animal cell deaths: 915
+----------------------------------------------------
+
+Logged At: 6:55:10 PM on 5/26/2002
+Simulation running time: 0:08:59
+Number of days elapsed: 21
+Total number of living cells: 19141
+Total number of living plant cells: 9571
+Total number of living animal cells: 9570
+Total number of births: 20971
+Total number of plant cell births: 10486
+Total number of animal cell births: 10485
+Total number of deaths: 1830
+Total number of plant cell deaths: 915
+Total number of animal cell deaths: 915
+----------------------------------------------------
+
+Logged At: 6:56:11 PM on 5/26/2002
+Simulation running time: 0:09:59
+Number of days elapsed: 21
+Total number of living cells: 20749
+Total number of living plant cells: 10375
+Total number of living animal cells: 10374
+Total number of births: 22579
+Total number of plant cell births: 11290
+Total number of animal cell births: 11289
+Total number of deaths: 1830
+Total number of plant cell deaths: 915
+Total number of animal cell deaths: 915
+----------------------------------------------------
+
+Logged At: 6:57:12 PM on 5/26/2002
+Simulation running time: 0:10:59
+Number of days elapsed: 21
+Total number of living cells: 22363
+Total number of living plant cells: 11182
+Total number of living animal cells: 11181
+Total number of births: 24193
+Total number of plant cell births: 12097
+Total number of animal cell births: 12096
+Total number of deaths: 1830
+Total number of plant cell deaths: 915
+Total number of animal cell deaths: 915
+----------------------------------------------------
+
+Logged At: 6:58:13 PM on 5/26/2002
+Simulation running time: 0:11:59
+Number of days elapsed: 22
+Total number of living cells: 23922
+Total number of living plant cells: 11961
+Total number of living animal cells: 11961
+Total number of births: 25798
+Total number of plant cell births: 12899
+Total number of animal cell births: 12899
+Total number of deaths: 1876
+Total number of plant cell deaths: 938
+Total number of animal cell deaths: 938
+----------------------------------------------------
+
+Logged At: 6:59:13 PM on 5/26/2002
+Simulation running time: 0:12:59
+Number of days elapsed: 22
+Total number of living cells: 24562
+Total number of living plant cells: 12281
+Total number of living animal cells: 12281
+Total number of births: 27378
+Total number of plant cell births: 13689
+Total number of animal cell births: 13689
+Total number of deaths: 2816
+Total number of plant cell deaths: 1408
+Total number of animal cell deaths: 1408
+----------------------------------------------------
+
+Logged At: 7:00:15 PM on 5/26/2002
+Simulation running time: 0:13:59
+Number of days elapsed: 22
+Total number of living cells: 25925
+Total number of living plant cells: 12963
+Total number of living animal cells: 12962
+Total number of births: 28741
+Total number of plant cell births: 14371
+Total number of animal cell births: 14370
+Total number of deaths: 2816
+Total number of plant cell deaths: 1408
+Total number of animal cell deaths: 1408
+----------------------------------------------------
+
+Logged At: 7:01:16 PM on 5/26/2002
+Simulation running time: 0:14:59
+Number of days elapsed: 22
+Total number of living cells: 27299
+Total number of living plant cells: 13650
+Total number of living animal cells: 13649
+Total number of births: 30115
+Total number of plant cell births: 15058
+Total number of animal cell births: 15057
+Total number of deaths: 2816
+Total number of plant cell deaths: 1408
+Total number of animal cell deaths: 1408
+----------------------------------------------------
+
+Logged At: 7:02:18 PM on 5/26/2002
+Simulation running time: 0:15:59
+Number of days elapsed: 22
+Total number of living cells: 28672
+Total number of living plant cells: 14336
+Total number of living animal cells: 14336
+Total number of births: 31488
+Total number of plant cell births: 15744
+Total number of animal cell births: 15744
+Total number of deaths: 2816
+Total number of plant cell deaths: 1408
+Total number of animal cell deaths: 1408
+----------------------------------------------------
+
+Logged At: 7:03:19 PM on 5/26/2002
+Simulation running time: 0:16:59
+Number of days elapsed: 22
+Total number of living cells: 30035
+Total number of living plant cells: 15018
+Total number of living animal cells: 15017
+Total number of births: 32851
+Total number of plant cell births: 16426
+Total number of animal cell births: 16425
+Total number of deaths: 2816
+Total number of plant cell deaths: 1408
+Total number of animal cell deaths: 1408
+----------------------------------------------------
+
+Logged At: 7:04:20 PM on 5/26/2002
+Simulation running time: 0:17:59
+Number of days elapsed: 22
+Total number of living cells: 31362
+Total number of living plant cells: 15681
+Total number of living animal cells: 15681
+Total number of births: 34178
+Total number of plant cell births: 17089
+Total number of animal cell births: 17089
+Total number of deaths: 2816
+Total number of plant cell deaths: 1408
+Total number of animal cell deaths: 1408
+----------------------------------------------------
+
+Logged At: 7:05:22 PM on 5/26/2002
+Simulation running time: 0:18:59
+Number of days elapsed: 22
+Total number of living cells: 32734
+Total number of living plant cells: 16367
+Total number of living animal cells: 16367
+Total number of births: 35550
+Total number of plant cell births: 17775
+Total number of animal cell births: 17775
+Total number of deaths: 2816
+Total number of plant cell deaths: 1408
+Total number of animal cell deaths: 1408
+----------------------------------------------------
+
+Logged At: 7:06:23 PM on 5/26/2002
+Simulation running time: 0:19:58
+Number of days elapsed: 23
+Total number of living cells: 33980
+Total number of living plant cells: 16990
+Total number of living animal cells: 16990
+Total number of births: 36870
+Total number of plant cell births: 18435
+Total number of animal cell births: 18435
+Total number of deaths: 2890
+Total number of plant cell deaths: 1445
+Total number of animal cell deaths: 1445
+----------------------------------------------------
+
+Logged At: 7:07:24 PM on 5/26/2002
+Simulation running time: 0:20:59
+Number of days elapsed: 23
+Total number of living cells: 33844
+Total number of living plant cells: 16922
+Total number of living animal cells: 16922
+Total number of births: 38192
+Total number of plant cell births: 19096
+Total number of animal cell births: 19096
+Total number of deaths: 4348
+Total number of plant cell deaths: 2174
+Total number of animal cell deaths: 2174
+----------------------------------------------------
+
+Logged At: 7:08:25 PM on 5/26/2002
+Simulation running time: 0:21:59
+Number of days elapsed: 23
+Total number of living cells: 34977
+Total number of living plant cells: 17489
+Total number of living animal cells: 17488
+Total number of births: 39325
+Total number of plant cell births: 19663
+Total number of animal cell births: 19662
+Total number of deaths: 4348
+Total number of plant cell deaths: 2174
+Total number of animal cell deaths: 2174
+----------------------------------------------------
+
+Logged At: 7:09:27 PM on 5/26/2002
+Simulation running time: 0:22:59
+Number of days elapsed: 23
+Total number of living cells: 36065
+Total number of living plant cells: 18033
+Total number of living animal cells: 18032
+Total number of births: 40413
+Total number of plant cell births: 20207
+Total number of animal cell births: 20206
+Total number of deaths: 4348
+Total number of plant cell deaths: 2174
+Total number of animal cell deaths: 2174
+----------------------------------------------------
+
+Logged At: 7:10:29 PM on 5/26/2002
+Simulation running time: 0:23:59
+Number of days elapsed: 23
+Total number of living cells: 37134
+Total number of living plant cells: 18567
+Total number of living animal cells: 18567
+Total number of births: 41482
+Total number of plant cell births: 20741
+Total number of animal cell births: 20741
+Total number of deaths: 4348
+Total number of plant cell deaths: 2174
+Total number of animal cell deaths: 2174
+----------------------------------------------------
+
+Logged At: 7:11:31 PM on 5/26/2002
+Simulation running time: 0:24:59
+Number of days elapsed: 23
+Total number of living cells: 38186
+Total number of living plant cells: 19093
+Total number of living animal cells: 19093
+Total number of births: 42534
+Total number of plant cell births: 21267
+Total number of animal cell births: 21267
+Total number of deaths: 4348
+Total number of plant cell deaths: 2174
+Total number of animal cell deaths: 2174
+----------------------------------------------------
+
+Logged At: 7:12:32 PM on 5/26/2002
+Simulation running time: 0:25:59
+Number of days elapsed: 23
+Total number of living cells: 39293
+Total number of living plant cells: 19647
+Total number of living animal cells: 19646
+Total number of births: 43641
+Total number of plant cell births: 21821
+Total number of animal cell births: 21820
+Total number of deaths: 4348
+Total number of plant cell deaths: 2174
+Total number of animal cell deaths: 2174
+----------------------------------------------------
+
+Logged At: 7:13:33 PM on 5/26/2002
+Simulation running time: 0:26:59
+Number of days elapsed: 24
+Total number of living cells: 40154
+Total number of living plant cells: 20077
+Total number of living animal cells: 20077
+Total number of births: 44686
+Total number of plant cell births: 22343
+Total number of animal cell births: 22343
+Total number of deaths: 4532
+Total number of plant cell deaths: 2266
+Total number of animal cell deaths: 2266
+----------------------------------------------------
+
+Logged At: 7:14:34 PM on 5/26/2002
+Simulation running time: 0:27:59
+Number of days elapsed: 24
+Total number of living cells: 41277
+Total number of living plant cells: 20639
+Total number of living animal cells: 20638
+Total number of births: 45809
+Total number of plant cell births: 22905
+Total number of animal cell births: 22904
+Total number of deaths: 4532
+Total number of plant cell deaths: 2266
+Total number of animal cell deaths: 2266
+----------------------------------------------------
+
+Logged At: 7:15:35 PM on 5/26/2002
+Simulation running time: 0:28:17
+Number of days elapsed: 24
+Total number of living cells: 41596
+Total number of living plant cells: 20798
+Total number of living animal cells: 20798
+Total number of births: 46128
+Total number of plant cell births: 23064
+Total number of animal cell births: 23064
+Total number of deaths: 4532
+Total number of plant cell deaths: 2266
+Total number of animal cell deaths: 2266
+----------------------------------------------------
+
+Logged At: 7:16:36 PM on 5/26/2002
+Simulation running time: 0:29:59
+Number of days elapsed: 24
+Total number of living cells: 38926
+Total number of living plant cells: 19463
+Total number of living animal cells: 19463
+Total number of births: 47176
+Total number of plant cell births: 23588
+Total number of animal cell births: 23588
+Total number of deaths: 8250
+Total number of plant cell deaths: 4125
+Total number of animal cell deaths: 4125
+----------------------------------------------------
+
+Logged At: 7:17:37 PM on 5/26/2002
+Simulation running time: 0:30:59
+Number of days elapsed: 24
+Total number of living cells: 40187
+Total number of living plant cells: 20094
+Total number of living animal cells: 20093
+Total number of births: 48437
+Total number of plant cell births: 24219
+Total number of animal cell births: 24218
+Total number of deaths: 8250
+Total number of plant cell deaths: 4125
+Total number of animal cell deaths: 4125
+----------------------------------------------------
+
+Logged At: 7:18:39 PM on 5/26/2002
+Simulation running time: 0:31:59
+Number of days elapsed: 24
+Total number of living cells: 41246
+Total number of living plant cells: 20623
+Total number of living animal cells: 20623
+Total number of births: 49496
+Total number of plant cell births: 24748
+Total number of animal cell births: 24748
+Total number of deaths: 8250
+Total number of plant cell deaths: 4125
+Total number of animal cell deaths: 4125
+----------------------------------------------------
+
+Logged At: 7:19:41 PM on 5/26/2002
+Simulation running time: 0:32:59
+Number of days elapsed: 24
+Total number of living cells: 42141
+Total number of living plant cells: 21071
+Total number of living animal cells: 21070
+Total number of births: 50391
+Total number of plant cell births: 25196
+Total number of animal cell births: 25195
+Total number of deaths: 8250
+Total number of plant cell deaths: 4125
+Total number of animal cell deaths: 4125
+----------------------------------------------------
+
+Logged At: 7:20:42 PM on 5/26/2002
+Simulation running time: 0:33:59
+Number of days elapsed: 24
+Total number of living cells: 42998
+Total number of living plant cells: 21499
+Total number of living animal cells: 21499
+Total number of births: 51248
+Total number of plant cell births: 25624
+Total number of animal cell births: 25624
+Total number of deaths: 8250
+Total number of plant cell deaths: 4125
+Total number of animal cell deaths: 4125
+----------------------------------------------------
+
+Logged At: 7:21:43 PM on 5/26/2002
+Simulation running time: 0:34:59
+Number of days elapsed: 24
+Total number of living cells: 43855
+Total number of living plant cells: 21928
+Total number of living animal cells: 21927
+Total number of births: 52105
+Total number of plant cell births: 26053
+Total number of animal cell births: 26052
+Total number of deaths: 8250
+Total number of plant cell deaths: 4125
+Total number of animal cell deaths: 4125
+----------------------------------------------------
+
+Logged At: 7:22:45 PM on 5/26/2002
+Simulation running time: 0:35:59
+Number of days elapsed: 24
+Total number of living cells: 44709
+Total number of living plant cells: 22355
+Total number of living animal cells: 22354
+Total number of births: 52959
+Total number of plant cell births: 26480
+Total number of animal cell births: 26479
+Total number of deaths: 8250
+Total number of plant cell deaths: 4125
+Total number of animal cell deaths: 4125
+----------------------------------------------------
+
+Logged At: 7:23:46 PM on 5/26/2002
+Simulation running time: 0:36:59
+Number of days elapsed: 24
+Total number of living cells: 45567
+Total number of living plant cells: 22784
+Total number of living animal cells: 22783
+Total number of births: 53817
+Total number of plant cell births: 26909
+Total number of animal cell births: 26908
+Total number of deaths: 8250
+Total number of plant cell deaths: 4125
+Total number of animal cell deaths: 4125
+----------------------------------------------------
+
+Logged At: 7:24:47 PM on 5/26/2002
+Simulation running time: 0:37:59
+Number of days elapsed: 25
+Total number of living cells: 45948
+Total number of living plant cells: 22974
+Total number of living animal cells: 22974
+Total number of births: 54554
+Total number of plant cell births: 27277
+Total number of animal cell births: 27277
+Total number of deaths: 8606
+Total number of plant cell deaths: 4303
+Total number of animal cell deaths: 4303
+----------------------------------------------------
+
+Logged At: 7:25:49 PM on 5/26/2002
+Simulation running time: 0:38:45
+Number of days elapsed: 25
+Total number of living cells: 46622
+Total number of living plant cells: 23311
+Total number of living animal cells: 23311
+Total number of births: 55228
+Total number of plant cell births: 27614
+Total number of animal cell births: 27614
+Total number of deaths: 8606
+Total number of plant cell deaths: 4303
+Total number of animal cell deaths: 4303
+----------------------------------------------------
+
+Logged At: 7:26:50 PM on 5/26/2002
+Simulation running time: 0:38:45
+Number of days elapsed: 25
+Total number of living cells: 46622
+Total number of living plant cells: 23311
+Total number of living animal cells: 23311
+Total number of births: 55228
+Total number of plant cell births: 27614
+Total number of animal cell births: 27614
+Total number of deaths: 8606
+Total number of plant cell deaths: 4303
+Total number of animal cell deaths: 4303
+----------------------------------------------------
+
+Logged At: 7:27:51 PM on 5/26/2002
+Simulation running time: 0:38:45
+Number of days elapsed: 25
+Total number of living cells: 46622
+Total number of living plant cells: 23311
+Total number of living animal cells: 23311
+Total number of births: 55228
+Total number of plant cell births: 27614
+Total number of animal cell births: 27614
+Total number of deaths: 8606
+Total number of plant cell deaths: 4303
+Total number of animal cell deaths: 4303
+----------------------------------------------------
+
+Logged At: 7:28:51 PM on 5/26/2002
+Simulation running time: 0:41:59
+Number of days elapsed: 25
+Total number of living cells: 40145
+Total number of living plant cells: 20073
+Total number of living animal cells: 20072
+Total number of births: 55969
+Total number of plant cell births: 27985
+Total number of animal cell births: 27984
+Total number of deaths: 15824
+Total number of plant cell deaths: 7912
+Total number of animal cell deaths: 7912
+----------------------------------------------------
+
+Logged At: 7:29:52 PM on 5/26/2002
+Simulation running time: 0:42:59
+Number of days elapsed: 25
+Total number of living cells: 41585
+Total number of living plant cells: 20793
+Total number of living animal cells: 20792
+Total number of births: 57409
+Total number of plant cell births: 28705
+Total number of animal cell births: 28704
+Total number of deaths: 15824
+Total number of plant cell deaths: 7912
+Total number of animal cell deaths: 7912
+----------------------------------------------------
+
+Logged At: 7:30:54 PM on 5/26/2002
+Simulation running time: 0:43:59
+Number of days elapsed: 25
+Total number of living cells: 42729
+Total number of living plant cells: 21365
+Total number of living animal cells: 21364
+Total number of births: 58553
+Total number of plant cell births: 29277
+Total number of animal cell births: 29276
+Total number of deaths: 15824
+Total number of plant cell deaths: 7912
+Total number of animal cell deaths: 7912
+----------------------------------------------------
+
+Logged At: 7:31:55 PM on 5/26/2002
+Simulation running time: 0:44:59
+Number of days elapsed: 25
+Total number of living cells: 43717
+Total number of living plant cells: 21859
+Total number of living animal cells: 21858
+Total number of births: 59541
+Total number of plant cell births: 29771
+Total number of animal cell births: 29770
+Total number of deaths: 15824
+Total number of plant cell deaths: 7912
+Total number of animal cell deaths: 7912
+----------------------------------------------------
+
+Logged At: 7:32:57 PM on 5/26/2002
+Simulation running time: 0:45:59
+Number of days elapsed: 25
+Total number of living cells: 44597
+Total number of living plant cells: 22299
+Total number of living animal cells: 22298
+Total number of births: 60421
+Total number of plant cell births: 30211
+Total number of animal cell births: 30210
+Total number of deaths: 15824
+Total number of plant cell deaths: 7912
+Total number of animal cell deaths: 7912
+----------------------------------------------------
+
+Logged At: 7:33:59 PM on 5/26/2002
+Simulation running time: 0:46:59
+Number of days elapsed: 26
+Total number of living cells: 44525
+Total number of living plant cells: 22263
+Total number of living animal cells: 22262
+Total number of births: 60971
+Total number of plant cell births: 30486
+Total number of animal cell births: 30485
+Total number of deaths: 16446
+Total number of plant cell deaths: 8223
+Total number of animal cell deaths: 8223
+----------------------------------------------------
+
+Logged At: 7:35:01 PM on 5/26/2002
+Simulation running time: 0:47:59
+Number of days elapsed: 26
+Total number of living cells: 45358
+Total number of living plant cells: 22679
+Total number of living animal cells: 22679
+Total number of births: 61804
+Total number of plant cell births: 30902
+Total number of animal cell births: 30902
+Total number of deaths: 16446
+Total number of plant cell deaths: 8223
+Total number of animal cell deaths: 8223
+----------------------------------------------------
+
+Logged At: 7:36:03 PM on 5/26/2002
+Simulation running time: 0:48:20
+Number of days elapsed: 26
+Total number of living cells: 45608
+Total number of living plant cells: 22804
+Total number of living animal cells: 22804
+Total number of births: 62054
+Total number of plant cell births: 31027
+Total number of animal cell births: 31027
+Total number of deaths: 16446
+Total number of plant cell deaths: 8223
+Total number of animal cell deaths: 8223
+----------------------------------------------------
+
+Logged At: 7:37:04 PM on 5/26/2002
+Simulation running time: 0:48:20
+Number of days elapsed: 26
+Total number of living cells: 45608
+Total number of living plant cells: 22804
+Total number of living animal cells: 22804
+Total number of births: 62054
+Total number of plant cell births: 31027
+Total number of animal cell births: 31027
+Total number of deaths: 16446
+Total number of plant cell deaths: 8223
+Total number of animal cell deaths: 8223
+----------------------------------------------------
+
+Logged At: 7:38:06 PM on 5/26/2002
+Simulation running time: 0:48:20
+Number of days elapsed: 26
+Total number of living cells: 45608
+Total number of living plant cells: 22804
+Total number of living animal cells: 22804
+Total number of births: 62054
+Total number of plant cell births: 31027
+Total number of animal cell births: 31027
+Total number of deaths: 16446
+Total number of plant cell deaths: 8223
+Total number of animal cell deaths: 8223
+----------------------------------------------------
+
+Logged At: 10:46:41 PM on 5/26/2002
+Simulation running time: 0:00:59
+Number of days elapsed: 19
+Total number of living cells: 1520
+Total number of living plant cells: 760
+Total number of living animal cells: 760
+Total number of births: 3872
+Total number of plant cell births: 1936
+Total number of animal cell births: 1936
+Total number of deaths: 2352
+Total number of plant cell deaths: 1176
+Total number of animal cell deaths: 1176
+----------------------------------------------------
+
